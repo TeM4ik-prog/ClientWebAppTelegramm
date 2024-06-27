@@ -1,0 +1,24 @@
+@import '../../../assets/styles/functions';
+@import '../../../assets/styles/animations';
+
+.block__bee {
+	background-image: url('animations/static/bee.gif');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	width: adapt(103.5px, 375px);
+	height: adapt(237.5px, 375px);
+	position: absolute;
+	left: 40%;
+	bottom: 0%;
+	// animation: static-bee 4s linear infinite;
+	// animation: attack-bee 4s linear infinite;
+}
+
+// .static__bee {
+// 	animation: static-bee 3s linear infinite;
+// }
+
+// .attacking__bee {
+// 	animation: attack-bee 1.5s linear infinite;
+// }

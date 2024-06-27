@@ -6,6 +6,9 @@ import Header from './components/particals/header/header'
 import HpBar from './components/hp-bar/HpBar'
 import InfoBear from './components/info-bear/InfoBear'
 import Score from './components/score/Score'
+import TimeBlock from './components/time_block/TimeBlock'
+import Bear from './components/interact_field/bear/Bear'
+import Bee from './components/interact_field/bee/Bee'
 
 function App() {
 
@@ -17,6 +20,10 @@ function App() {
       <InfoBear />
       <HpBar />
 
+      <Bear />
+      <Bee />
+
+      <TimeBlock />
     </div>
   )
 }
