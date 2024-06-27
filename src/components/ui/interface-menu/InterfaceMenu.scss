@@ -1,0 +1,67 @@
+@import '../../../assets/styles/functions';
+@import '../../../assets/styles/variables';
+
+.block__interface {
+	position: fixed;
+	z-index: 25;
+	// bottom: adapt(20px, 375px);
+	bottom: 0%;
+	left: 0%;
+	width: 100%;
+	background-image: url('/images/backgrounds/interface.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	width: 100%;
+	height: adapt(85px, 375px);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	ul {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: adapt(20px, 375px);
+
+		li {
+			margin-top: adapt(12px, 375px);
+			font-weight: 500;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			position: relative;
+
+			h3 {
+				margin-top: adapt(-7px, 375px);
+				font-size: 0.81rem;
+				color: $color_white_two;
+				text-shadow: 1px 1px 2px $color_text_shadow;
+			}
+
+			.retreat {
+				color: rgba($color: $color_white_two, $alpha: 0.7);
+			}
+
+			p {
+				font-family: 'Montserrat', sans-serif;
+				font-size: 0.5rem;
+				color: rgba($color: $color_white, $alpha: 0.7);
+			}
+
+			img {
+				width: adapt(36px, 375px);
+				height: adapt(36px, 375px);
+			}
+		}
+	}
+}
+
+.chain {
+	position: absolute;
+	top: 33%;
+	left: 17%;
+	z-index: 2;
+	width: adapt(60px, 375px);
+	height: adapt(39px, 375px);
+}

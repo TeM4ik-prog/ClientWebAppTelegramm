@@ -9,6 +9,7 @@ import Score from './components/score/Score'
 import TimeBlock from './components/time_block/TimeBlock'
 import Bear from './components/interact_field/bear/Bear'
 import Bee from './components/interact_field/bee/Bee'
+import InterfaceMenu from './components/ui/interface-menu/InterfaceMenu'
 
 function App() {
 
@@ -24,6 +25,8 @@ function App() {
       <Bee />
 
       <TimeBlock />
+
+      <InterfaceMenu />
     </div>
   )
 }
