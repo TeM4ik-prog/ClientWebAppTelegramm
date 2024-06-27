@@ -1,0 +1,26 @@
+@import '../../assets/styles/_variables';
+@import '../../assets/styles/_functions';
+
+
+
+.block__hpBar {
+	// width: 100%;
+	margin-top: adapt(10px, 375px);
+	background-image: url('../../public/images/backgrounds/hp_bar.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: adapt(328px, 375px);
+	height: adapt(26px, 375px);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	p {
+		font-size: 0.87rem;
+		font-weight: 500;
+		text-shadow: 1px 1px 2px $color_text_shadow;
+		color: $color_white_four;
+		margin-bottom: adapt(3px, 375px);
+	}
+}

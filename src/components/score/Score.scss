@@ -1,0 +1,53 @@
+@import '../../assets/styles/_variables';
+@import '../../assets/styles/_functions';
+
+.block__score {
+	display: flex;
+	width: adapt(290px, 375px);
+	height: adapt(42px, 375px);
+	padding-top: adapt(10px, 375px);
+	gap: adapt(5px, 375px);
+
+	.block__rang {
+		display: flex;
+		align-items: center;
+		position: relative;
+
+		img {
+			width: adapt(50px, 375px);
+			height: adapt(42px, 375px);
+		}
+
+		p {
+			position: absolute;
+			top: 28%;
+			left: 34%;
+			font-size: 0.93rem;
+			font-weight: 800;
+			color: $color_white_two;
+			text-shadow: 1px 1px 2px $color_text_shadow;
+		}
+	}
+
+	.block__description {
+		display: flex;
+		align-items: center;
+
+		p {
+			font-size: 1.56rem;
+			font-weight: 800;
+			color: $color_white_two;
+			text-shadow: 1px 1px 2px $color_text_shadow;
+		}
+
+		img {
+			width: adapt(23px, 375px);
+			height: adapt(27px, 375px);
+		}
+
+		.info {
+			width: adapt(13px, 375px);
+			height: adapt(13px, 375px);
+		}
+	}
+}

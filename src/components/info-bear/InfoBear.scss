@@ -1,0 +1,115 @@
+@import '../../assets/styles/_variables';
+@import '../../assets/styles/_functions';
+
+
+
+.block__infoBear {
+	margin-top: adapt(15px, 375px);
+	background-image: url('/images/backgrounds/table.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: adapt(329px, 375px);
+	height: adapt(61px, 375px);
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	.dead__head {
+		position: absolute;
+		top: 30%;
+		left: 10%;
+		width: adapt(25px, 375px);
+		height: adapt(25px, 375px);
+	}
+
+	.block__description {
+		display: flex;
+		gap: adapt(20px, 375px);
+		font-weight: 500;
+		width: adapt(210px, 375px);
+
+		.block__one {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+
+			h3 {
+				font-size: 1rem;
+				color: $color_white_two;
+				text-shadow: 1px 1px 2px $color_text_shadow;
+			}
+
+			.block__text {
+				margin-top: adapt(1px, 375px);
+				display: flex;
+				gap: adapt(3px, 375px);
+
+				img {
+					width: adapt(13px, 375px);
+					height: adapt(14.3px, 375px);
+				}
+
+				p {
+					font-size: 0.62rem;
+					color: $color_white_three;
+				}
+			}
+		}
+
+		.block__two {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			position: relative;
+
+			.chain {
+				position: absolute;
+				top: -19%;
+				left: 3%;
+			}
+
+			h3 {
+				color: rgba($color: $color_white_two, $alpha: 0.8);
+				text-shadow: 1px 1px 2px $color_text_shadow;
+			}
+
+			.block__text {
+				margin-top: adapt(1px, 375px);
+				p {
+					font-size: 0.62rem;
+					color: $color_white;
+				}
+			}
+		}
+
+		.block__three {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+
+			h3 {
+				color: $color_white_two;
+				text-shadow: 1px 1px 2px $color_text_shadow;
+			}
+
+			.block__text {
+				margin-top: adapt(1px, 375px);
+				display: flex;
+				align-items: center;
+
+				img {
+					width: adapt(14px, 375px);
+					height: adapt(15px, 375px);
+				}
+
+				p {
+					font-size: 0.62rem;
+					text-shadow: 1px 1px 2px $color_text_shadow;
+					color: $color_white_two;
+				}
+			}
+		}
+	}
+}
