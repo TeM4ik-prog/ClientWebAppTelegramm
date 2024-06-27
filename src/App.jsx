@@ -6,13 +6,10 @@ import './App.css'
 function App() {
 
   return (
-    <>
+    <div className='wrapper'> 
       <h1>Test Web Tg App</h1>
 
-
-
-      <button>Click</button>
-    </>
+    </div>
   )
 }
 

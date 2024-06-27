@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100..900&family=Montserrat:wght@100..900&family=Moul&display=swap');
+@import './variables';
+
+*,
+*::before,
+*::after {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul,
+ol,
+li {
+	list-style: none;
+}
+
+img {
+	vertical-align: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+
+//fonts
+//  font-family: "Exo 2", sans-serif;
+// font-family: "Montserrat", sans-serif;
+//  font-family: "Moul", serif;
+
+html,
+body {
+	height: 100%;
+	font-family: 'Exo 2', sans-serif;
+	font-size: calc(1em + 1vw);
+
+	
+
+
+
+
+	// calc(1vw + 0.65em)
+}
+
+#root {
+	height: 100%;
+}

@@ -1,0 +1,1157 @@
+@keyframes view-damage {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+@keyframes static-bear {
+	0% {
+		background-image: url('./images/bear_idle/медведь_00.png');
+	}
+	2% {
+		background-image: url('./images/bear_idle/медведь_01.png');
+	}
+	4% {
+		background-image: url('./images/bear_idle/медведь_02.png');
+	}
+	6% {
+		background-image: url('./images/bear_idle/медведь_03.png');
+	}
+	8% {
+		background-image: url('./images/bear_idle/медведь_04.png');
+	}
+	10% {
+		background-image: url('./images/bear_idle/медведь_05.png');
+	}
+	12% {
+		background-image: url('./images/bear_idle/медведь_06.png');
+	}
+	13% {
+		background-image: url('./images/bear_idle/медведь_07.png');
+	}
+	14% {
+		background-image: url('./images/bear_idle/медведь_08.png');
+	}
+	16% {
+		background-image: url('./images/bear_idle/медведь_09.png');
+	}
+	18% {
+		background-image: url('./images/bear_idle/медведь_10.png');
+	}
+	20% {
+		background-image: url('./images/bear_idle/медведь_11.png');
+	}
+	21% {
+		background-image: url('./images/bear_idle/медведь_12.png');
+	}
+	22% {
+		background-image: url('./images/bear_idle/медведь_13.png');
+	}
+	24% {
+		background-image: url('./images/bear_idle/медведь_14.png');
+	}
+	26% {
+		background-image: url('./images/bear_idle/медведь_15.png');
+	}
+	28% {
+		background-image: url('./images/bear_idle/медведь_16.png');
+	}
+	30% {
+		background-image: url('./images/bear_idle/медведь_17.png');
+	}
+	32% {
+		background-image: url('./images/bear_idle/медведь_18.png');
+	}
+	34% {
+		background-image: url('./images/bear_idle/медведь_19.png');
+	}
+	36% {
+		background-image: url('./images/bear_idle/медведь_20.png');
+	}
+	38% {
+		background-image: url('./images/bear_idle/медведь_21.png');
+	}
+	40% {
+		background-image: url('./images/bear_idle/медведь_22.png');
+	}
+	41% {
+		background-image: url('./images/bear_idle/медведь_23.png');
+	}
+	42% {
+		background-image: url('./images/bear_idle/медведь_24.png');
+	}
+	44% {
+		background-image: url('./images/bear_idle/медведь_25.png');
+	}
+	45% {
+		background-image: url('./images/bear_idle/медведь_26.png');
+	}
+	46% {
+		background-image: url('./images/bear_idle/медведь_27.png');
+	}
+	48% {
+		background-image: url('./images/bear_idle/медведь_28.png');
+	}
+	49% {
+		background-image: url('./images/bear_idle/медведь_29.png');
+	}
+	50% {
+		background-image: url('./images/bear_idle/медведь_30.png');
+	}
+	51% {
+		background-image: url('./images/bear_idle/медведь_31.png');
+	}
+	52% {
+		background-image: url('./images/bear_idle/медведь_32.png');
+	}
+	54% {
+		background-image: url('./images/bear_idle/медведь_33.png');
+	}
+	55% {
+		background-image: url('./images/bear_idle/медведь_34.png');
+	}
+	56% {
+		background-image: url('./images/bear_idle/медведь_35.png');
+	}
+	58% {
+		background-image: url('./images/bear_idle/медведь_36.png');
+	}
+	59% {
+		background-image: url('./images/bear_idle/медведь_37.png');
+	}
+	60% {
+		background-image: url('./images/bear_idle/медведь_38.png');
+	}
+	61% {
+		background-image: url('./images/bear_idle/медведь_39.png');
+	}
+	62% {
+		background-image: url('./images/bear_idle/медведь_40.png');
+	}
+	64% {
+		background-image: url('./images/bear_idle/медведь_41.png');
+	}
+	66% {
+		background-image: url('./images/bear_idle/медведь_42.png');
+	}
+	68% {
+		background-image: url('./images/bear_idle/медведь_43.png');
+	}
+	70% {
+		background-image: url('./images/bear_idle/медведь_44.png');
+	}
+	71% {
+		background-image: url('./images/bear_idle/медведь_45.png');
+	}
+	72% {
+		background-image: url('./images/bear_idle/медведь_46.png');
+	}
+	74% {
+		background-image: url('./images/bear_idle/медведь_47.png');
+	}
+	76% {
+		background-image: url('./images/bear_idle/медведь_48.png');
+	}
+	77% {
+		background-image: url('./images/bear_idle/медведь_49.png');
+	}
+	78% {
+		background-image: url('./images/bear_idle/медведь_50.png');
+	}
+	79% {
+		background-image: url('./images/bear_idle/медведь_51.png');
+	}
+	80% {
+		background-image: url('./images/bear_idle/медведь_52.png');
+	}
+	82% {
+		background-image: url('./images/bear_idle/медведь_53.png');
+	}
+	83% {
+		background-image: url('./images/bear_idle/медведь_54.png');
+	}
+	84% {
+		background-image: url('./images/bear_idle/медведь_55.png');
+	}
+	85% {
+		background-image: url('./images/bear_idle/медведь_56.png');
+	}
+	86% {
+		background-image: url('./images/bear_idle/медведь_57.png');
+	}
+	87% {
+		background-image: url('./images/bear_idle/медведь_58.png');
+	}
+	88% {
+		background-image: url('./images/bear_idle/медведь_59.png');
+	}
+	89% {
+		background-image: url('./images/bear_idle/медведь_60.png');
+	}
+	90% {
+		background-image: url('./images/bear_idle/медведь_61.png');
+	}
+	92% {
+		background-image: url('./images/bear_idle/медведь_62.png');
+	}
+	93% {
+		background-image: url('./images/bear_idle/медведь_63.png');
+	}
+	94% {
+		background-image: url('./images/bear_idle/медведь_64.png');
+	}
+	95% {
+		background-image: url('./images/bear_idle/медведь_65.png');
+	}
+	96% {
+		background-image: url('./images/bear_idle/медведь_66.png');
+	}
+	97% {
+		background-image: url('./images/bear_idle/медведь_67.png');
+	}
+	98% {
+		background-image: url('./images/bear_idle/медведь_68.png');
+	}
+	100% {
+		background-image: url('./images/bear_idle/медведь_69.png');
+	}
+}
+
+@keyframes damage-bear {
+	0% {
+		background-image: url('/images/bear_damage/медведь_урон_0.png');
+	}
+	12.5% {
+		background-image: url('/images/bear_damage/медведь_урон_1.png');
+	}
+	25% {
+		background-image: url('/images/bear_damage/медведь_урон_2.png');
+	}
+	37.5% {
+		background-image: url('/images/bear_damage/медведь_урон_3.png');
+	}
+	50% {
+		background-image: url('/images/bear_damage/медведь_урон_4.png');
+	}
+	62.5% {
+		background-image: url('/images/bear_damage/медведь_урон_5.png');
+	}
+	75% {
+		background-image: url('/images/bear_damage/медведь_урон_6.png');
+	}
+	87.5% {
+		background-image: url('/images/bear_damage/медведь_урон_7.png');
+	}
+	100% {
+		background-image: url('/images/bear_damage/медведь_урон_8.png');
+	}
+}
+
+@keyframes static-bee {
+	0% {
+		background-image: url('./images/bee_idle/пчела idle_000.png');
+	}
+	0.67% {
+		background-image: url('./images/bee_idle/пчела idle_001.png');
+	}
+	1.35% {
+		background-image: url('./images/bee_idle/пчела idle_002.png');
+	}
+	2.02% {
+		background-image: url('./images/bee_idle/пчела idle_003.png');
+	}
+	2.7% {
+		background-image: url('./images/bee_idle/пчела idle_004.png');
+	}
+	3.37% {
+		background-image: url('./images/bee_idle/пчела idle_005.png');
+	}
+	4.05% {
+		background-image: url('./images/bee_idle/пчела idle_006.png');
+	}
+	4.72% {
+		background-image: url('./images/bee_idle/пчела idle_007.png');
+	}
+	5.4% {
+		background-image: url('./images/bee_idle/пчела idle_008.png');
+	}
+	6.07% {
+		background-image: url('./images/bee_idle/пчела idle_009.png');
+	}
+	6.75% {
+		background-image: url('./images/bee_idle/пчела idle_010.png');
+	}
+	7.42% {
+		background-image: url('./images/bee_idle/пчела idle_011.png');
+	}
+	8.1% {
+		background-image: url('./images/bee_idle/пчела idle_012.png');
+	}
+	8.77% {
+		background-image: url('./images/bee_idle/пчела idle_013.png');
+	}
+	9.45% {
+		background-image: url('./images/bee_idle/пчела idle_014.png');
+	}
+	10.12% {
+		background-image: url('./images/bee_idle/пчела idle_015.png');
+	}
+	10.8% {
+		background-image: url('./images/bee_idle/пчела idle_016.png');
+	}
+	11.47% {
+		background-image: url('./images/bee_idle/пчела idle_017.png');
+	}
+	12.15% {
+		background-image: url('./images/bee_idle/пчела idle_018.png');
+	}
+	12.82% {
+		background-image: url('./images/bee_idle/пчела idle_019.png');
+	}
+	13.5% {
+		background-image: url('./images/bee_idle/пчела idle_020.png');
+	}
+	14.17% {
+		background-image: url('./images/bee_idle/пчела idle_021.png');
+	}
+	14.85% {
+		background-image: url('./images/bee_idle/пчела idle_022.png');
+	}
+	15.52% {
+		background-image: url('./images/bee_idle/пчела idle_023.png');
+	}
+	16.2% {
+		background-image: url('./images/bee_idle/пчела idle_024.png');
+	}
+	16.87% {
+		background-image: url('./images/bee_idle/пчела idle_025.png');
+	}
+	17.55% {
+		background-image: url('./images/bee_idle/пчела idle_026.png');
+	}
+	18.22% {
+		background-image: url('./images/bee_idle/пчела idle_027.png');
+	}
+	18.9% {
+		background-image: url('./images/bee_idle/пчела idle_028.png');
+	}
+	19.57% {
+		background-image: url('./images/bee_idle/пчела idle_029.png');
+	}
+	20.25% {
+		background-image: url('./images/bee_idle/пчела idle_030.png');
+	}
+	20.92% {
+		background-image: url('./images/bee_idle/пчела idle_031.png');
+	}
+	21.6% {
+		background-image: url('./images/bee_idle/пчела idle_032.png');
+	}
+	22.27% {
+		background-image: url('./images/bee_idle/пчела idle_033.png');
+	}
+	22.95% {
+		background-image: url('./images/bee_idle/пчела idle_034.png');
+	}
+	23.62% {
+		background-image: url('./images/bee_idle/пчела idle_035.png');
+	}
+	24.3% {
+		background-image: url('./images/bee_idle/пчела idle_036.png');
+	}
+	24.97% {
+		background-image: url('./images/bee_idle/пчела idle_037.png');
+	}
+	25.65% {
+		background-image: url('./images/bee_idle/пчела idle_038.png');
+	}
+	26.32% {
+		background-image: url('./images/bee_idle/пчела idle_039.png');
+	}
+	27% {
+		background-image: url('./images/bee_idle/пчела idle_040.png');
+	}
+	27.67% {
+		background-image: url('./images/bee_idle/пчела idle_041.png');
+	}
+	28.35% {
+		background-image: url('./images/bee_idle/пчела idle_042.png');
+	}
+	29.2% {
+		background-image: url('./images/bee_idle/пчела idle_043.png');
+	}
+	29.7% {
+		background-image: url('./images/bee_idle/пчела idle_044.png');
+	}
+	30.37% {
+		background-image: url('./images/bee_idle/пчела idle_045.png');
+	}
+	31.05% {
+		background-image: url('./images/bee_idle/пчела idle_046.png');
+	}
+	31.72% {
+		background-image: url('./images/bee_idle/пчела idle_047.png');
+	}
+	32.4% {
+		background-image: url('./images/bee_idle/пчела idle_048.png');
+	}
+	33.07% {
+		background-image: url('./images/bee_idle/пчела idle_049.png');
+	}
+	33.75% {
+		background-image: url('./images/bee_idle/пчела idle_050.png');
+	}
+	34.42% {
+		background-image: url('./images/bee_idle/пчела idle_051.png');
+	}
+	35.1% {
+		background-image: url('./images/bee_idle/пчела idle_052.png');
+	}
+	35.77% {
+		background-image: url('./images/bee_idle/пчела idle_053.png');
+	}
+	36.45% {
+		background-image: url('./images/bee_idle/пчела idle_054.png');
+	}
+	37.12% {
+		background-image: url('./images/bee_idle/пчела idle_055.png');
+	}
+	37.8% {
+		background-image: url('./images/bee_idle/пчела idle_056.png');
+	}
+	38.47% {
+		background-image: url('./images/bee_idle/пчела idle_057.png');
+	}
+	39.15% {
+		background-image: url('./images/bee_idle/пчела idle_058.png');
+	}
+	39.82% {
+		background-image: url('./images/bee_idle/пчела idle_059.png');
+	}
+	40.5% {
+		background-image: url('./images/bee_idle/пчела idle_060.png');
+	}
+	41.17% {
+		background-image: url('./images/bee_idle/пчела idle_061.png');
+	}
+	41.85% {
+		background-image: url('./images/bee_idle/пчела idle_062.png');
+	}
+	42.52% {
+		background-image: url('./images/bee_idle/пчела idle_063.png');
+	}
+	43.2% {
+		background-image: url('./images/bee_idle/пчела idle_064.png');
+	}
+	43.87% {
+		background-image: url('./images/bee_idle/пчела idle_065.png');
+	}
+	44.55% {
+		background-image: url('./images/bee_idle/пчела idle_066.png');
+	}
+	45.22% {
+		background-image: url('./images/bee_idle/пчела idle_067.png');
+	}
+	45.9% {
+		background-image: url('./images/bee_idle/пчела idle_068.png');
+	}
+	46.57% {
+		background-image: url('./images/bee_idle/пчела idle_069.png');
+	}
+	47.52% {
+		background-image: url('./images/bee_idle/пчела idle_070.png');
+	}
+	47.92% {
+		background-image: url('./images/bee_idle/пчела idle_071.png');
+	}
+	48.6% {
+		background-image: url('./images/bee_idle/пчела idle_072.png');
+	}
+	49.27% {
+		background-image: url('./images/bee_idle/пчела idle_073.png');
+	}
+	49.95% {
+		background-image: url('./images/bee_idle/пчела idle_074.png');
+	}
+	50.62% {
+		background-image: url('./images/bee_idle/пчела idle_075.png');
+	}
+	51.3% {
+		background-image: url('./images/bee_idle/пчела idle_076.png');
+	}
+	51.97% {
+		background-image: url('./images/bee_idle/пчела idle_077.png');
+	}
+	52.65% {
+		background-image: url('./images/bee_idle/пчела idle_078.png');
+	}
+	53.32% {
+		background-image: url('./images/bee_idle/пчела idle_079.png');
+	}
+	54% {
+		background-image: url('./images/bee_idle/пчела idle_080.png');
+	}
+	54.67% {
+		background-image: url('./images/bee_idle/пчела idle_081.png');
+	}
+	55.35% {
+		background-image: url('./images/bee_idle/пчела idle_082.png');
+	}
+	56.02% {
+		background-image: url('./images/bee_idle/пчела idle_083.png');
+	}
+	56.7% {
+		background-image: url('./images/bee_idle/пчела idle_084.png');
+	}
+	57.37% {
+		background-image: url('./images/bee_idle/пчела idle_085.png');
+	}
+	58.05% {
+		background-image: url('./images/bee_idle/пчела idle_086.png');
+	}
+	58.72% {
+		background-image: url('./images/bee_idle/пчела idle_087.png');
+	}
+	59.4% {
+		background-image: url('./images/bee_idle/пчела idle_088.png');
+	}
+	60.07% {
+		background-image: url('./images/bee_idle/пчела idle_089.png');
+	}
+	60.75% {
+		background-image: url('./images/bee_idle/пчела idle_090.png');
+	}
+	61.42% {
+		background-image: url('./images/bee_idle/пчела idle_091.png');
+	}
+	62.1% {
+		background-image: url('./images/bee_idle/пчела idle_092.png');
+	}
+	62.77% {
+		background-image: url('./images/bee_idle/пчела idle_093.png');
+	}
+	63.45% {
+		background-image: url('./images/bee_idle/пчела idle_094.png');
+	}
+	64.12% {
+		background-image: url('./images/bee_idle/пчела idle_095.png');
+	}
+	64.8% {
+		background-image: url('./images/bee_idle/пчела idle_096.png');
+	}
+	65.47% {
+		background-image: url('./images/bee_idle/пчела idle_097.png');
+	}
+	66.15% {
+		background-image: url('./images/bee_idle/пчела idle_098.png');
+	}
+	66.82% {
+		background-image: url('./images/bee_idle/пчела idle_099.png');
+	}
+	67.5% {
+		background-image: url('./images/bee_idle/пчела idle_100.png');
+	}
+	68.17% {
+		background-image: url('./images/bee_idle/пчела idle_101.png');
+	}
+	68.85% {
+		background-image: url('./images/bee_idle/пчела idle_102.png');
+	}
+	69.52% {
+		background-image: url('./images/bee_idle/пчела idle_103.png');
+	}
+	70.2% {
+		background-image: url('./images/bee_idle/пчела idle_104.png');
+	}
+	70.87% {
+		background-image: url('./images/bee_idle/пчела idle_105.png');
+	}
+	71.55% {
+		background-image: url('./images/bee_idle/пчела idle_106.png');
+	}
+	72.22% {
+		background-image: url('./images/bee_idle/пчела idle_107.png');
+	}
+	72.9% {
+		background-image: url('./images/bee_idle/пчела idle_108.png');
+	}
+	73.57% {
+		background-image: url('./images/bee_idle/пчела idle_109.png');
+	}
+	74.25% {
+		background-image: url('./images/bee_idle/пчела idle_110.png');
+	}
+	74.92% {
+		background-image: url('./images/bee_idle/пчела idle_111.png');
+	}
+	75.6% {
+		background-image: url('./images/bee_idle/пчела idle_112.png');
+	}
+	76.27% {
+		background-image: url('./images/bee_idle/пчела idle_113.png');
+	}
+	76.95% {
+		background-image: url('./images/bee_idle/пчела idle_114.png');
+	}
+	77.62% {
+		background-image: url('./images/bee_idle/пчела idle_115.png');
+	}
+	78.3% {
+		background-image: url('./images/bee_idle/пчела idle_116.png');
+	}
+	78.97% {
+		background-image: url('./images/bee_idle/пчела idle_117.png');
+	}
+	79.65% {
+		background-image: url('./images/bee_idle/пчела idle_118.png');
+	}
+	80.32% {
+		background-image: url('./images/bee_idle/пчела idle_119.png');
+	}
+	81% {
+		background-image: url('./images/bee_idle/пчела idle_120.png');
+	}
+	81.67% {
+		background-image: url('./images/bee_idle/пчела idle_121.png');
+	}
+	82.35% {
+		background-image: url('./images/bee_idle/пчела idle_122.png');
+	}
+	83.02% {
+		background-image: url('./images/bee_idle/пчела idle_123.png');
+	}
+	83.7% {
+		background-image: url('./images/bee_idle/пчела idle_124.png');
+	}
+	84.37% {
+		background-image: url('./images/bee_idle/пчела idle_125.png');
+	}
+	85.05% {
+		background-image: url('./images/bee_idle/пчела idle_126.png');
+	}
+	85.72% {
+		background-image: url('./images/bee_idle/пчела idle_127.png');
+	}
+	86.4% {
+		background-image: url('./images/bee_idle/пчела idle_128.png');
+	}
+	87.07% {
+		background-image: url('./images/bee_idle/пчела idle_129.png');
+	}
+	87.75% {
+		background-image: url('./images/bee_idle/пчела idle_130.png');
+	}
+	88.42% {
+		background-image: url('./images/bee_idle/пчела idle_131.png');
+	}
+	89.1% {
+		background-image: url('./images/bee_idle/пчела idle_132.png');
+	}
+	89.77% {
+		background-image: url('./images/bee_idle/пчела idle_133.png');
+	}
+	90.45% {
+		background-image: url('./images/bee_idle/пчела idle_134.png');
+	}
+	91.12% {
+		background-image: url('./images/bee_idle/пчела idle_135.png');
+	}
+	91.8% {
+		background-image: url('./images/bee_idle/пчела idle_136.png');
+	}
+	92.47% {
+		background-image: url('./images/bee_idle/пчела idle_137.png');
+	}
+	93.15% {
+		background-image: url('./images/bee_idle/пчела idle_138.png');
+	}
+	93.82% {
+		background-image: url('./images/bee_idle/пчела idle_139.png');
+	}
+	94.5% {
+		background-image: url('./images/bee_idle/пчела idle_140.png');
+	}
+	95.17% {
+		background-image: url('./images/bee_idle/пчела idle_141.png');
+	}
+	95.85% {
+		background-image: url('./images/bee_idle/пчела idle_142.png');
+	}
+	96.52% {
+		background-image: url('./images/bee_idle/пчела idle_143.png');
+	}
+	97.2% {
+		background-image: url('./images/bee_idle/пчела idle_144.png');
+	}
+	97.87% {
+		background-image: url('./images/bee_idle/пчела idle_145.png');
+	}
+	98.55% {
+		background-image: url('./images/bee_idle/пчела idle_146.png');
+	}
+	99.22% {
+		background-image: url('./images/bee_idle/пчела idle_147.png');
+	}
+	99.9% {
+		background-image: url('./images/bee_idle/пчела idle_148.png');
+	}
+	100% {
+		background-image: url('./images/bee_idle/пчела idle_148.png');
+	}
+}
+
+@keyframes attack-bee {
+	0% {
+		background-image: url('./images/bee_sword/пчела меч_000.png');
+	}
+	0.67% {
+		background-image: url('./images/bee_sword/пчела меч_001.png');
+	}
+	1.35% {
+		background-image: url('./images/bee_sword/пчела меч_002.png');
+	}
+	2.02% {
+		background-image: url('./images/bee_sword/пчела меч_003.png');
+	}
+	2.7% {
+		background-image: url('./images/bee_sword/пчела меч_004.png');
+	}
+	3.37% {
+		background-image: url('./images/bee_sword/пчела меч_005.png');
+	}
+	4.05% {
+		background-image: url('./images/bee_sword/пчела меч_006.png');
+	}
+	4.72% {
+		background-image: url('./images/bee_sword/пчела меч_007.png');
+	}
+	5.4% {
+		background-image: url('./images/bee_sword/пчела меч_008.png');
+	}
+	6.07% {
+		background-image: url('./images/bee_sword/пчела меч_009.png');
+	}
+	6.75% {
+		background-image: url('./images/bee_sword/пчела меч_010.png');
+	}
+	7.42% {
+		background-image: url('./images/bee_sword/пчела меч_011.png');
+	}
+	8.1% {
+		background-image: url('./images/bee_sword/пчела меч_012.png');
+	}
+	8.77% {
+		background-image: url('./images/bee_sword/пчела меч_013.png');
+	}
+	9.45% {
+		background-image: url('./images/bee_sword/пчела меч_014.png');
+	}
+	10.12% {
+		background-image: url('./images/bee_sword/пчела меч_015.png');
+	}
+	10.8% {
+		background-image: url('./images/bee_sword/пчела меч_016.png');
+	}
+	11.47% {
+		background-image: url('./images/bee_sword/пчела меч_017.png');
+	}
+	12.15% {
+		background-image: url('./images/bee_sword/пчела меч_018.png');
+	}
+	12.82% {
+		background-image: url('./images/bee_sword/пчела меч_019.png');
+	}
+	13.5% {
+		background-image: url('./images/bee_sword/пчела меч_020.png');
+	}
+	14.17% {
+		background-image: url('./images/bee_sword/пчела меч_021.png');
+	}
+	14.85% {
+		background-image: url('./images/bee_sword/пчела меч_022.png');
+	}
+	15.52% {
+		background-image: url('./images/bee_sword/пчела меч_023.png');
+	}
+	16.2% {
+		background-image: url('./images/bee_sword/пчела меч_024.png');
+	}
+	16.87% {
+		background-image: url('./images/bee_sword/пчела меч_025.png');
+	}
+	17.55% {
+		background-image: url('./images/bee_sword/пчела меч_026.png');
+	}
+	18.22% {
+		background-image: url('./images/bee_sword/пчела меч_027.png');
+	}
+	18.9% {
+		background-image: url('./images/bee_sword/пчела меч_028.png');
+	}
+	19.57% {
+		background-image: url('./images/bee_sword/пчела меч_029.png');
+	}
+	20.25% {
+		background-image: url('./images/bee_sword/пчела меч_030.png');
+	}
+	20.92% {
+		background-image: url('./images/bee_sword/пчела меч_031.png');
+	}
+	21.6% {
+		background-image: url('./images/bee_sword/пчела меч_032.png');
+	}
+	22.27% {
+		background-image: url('./images/bee_sword/пчела меч_033.png');
+	}
+	22.95% {
+		background-image: url('./images/bee_sword/пчела меч_034.png');
+	}
+	23.62% {
+		background-image: url('./images/bee_sword/пчела меч_035.png');
+	}
+	24.3% {
+		background-image: url('./images/bee_sword/пчела меч_036.png');
+	}
+	24.97% {
+		background-image: url('./images/bee_sword/пчела меч_037.png');
+	}
+	25.65% {
+		background-image: url('./images/bee_sword/пчела меч_038.png');
+	}
+	26.32% {
+		background-image: url('./images/bee_sword/пчела меч_039.png');
+	}
+	27% {
+		background-image: url('./images/bee_sword/пчела меч_040.png');
+	}
+	27.67% {
+		background-image: url('./images/bee_sword/пчела меч_041.png');
+	}
+	28.35% {
+		background-image: url('./images/bee_sword/пчела меч_042.png');
+	}
+	29.2% {
+		background-image: url('./images/bee_sword/пчела меч_043.png');
+	}
+	29.7% {
+		background-image: url('./images/bee_sword/пчела меч_044.png');
+	}
+	30.37% {
+		background-image: url('./images/bee_sword/пчела меч_045.png');
+	}
+	31.05% {
+		background-image: url('./images/bee_sword/пчела меч_046.png');
+	}
+	31.72% {
+		background-image: url('./images/bee_sword/пчела меч_047.png');
+	}
+	32.4% {
+		background-image: url('./images/bee_sword/пчела меч_048.png');
+	}
+	33.07% {
+		background-image: url('./images/bee_sword/пчела меч_049.png');
+	}
+	33.75% {
+		background-image: url('./images/bee_sword/пчела меч_050.png');
+	}
+	34.42% {
+		background-image: url('./images/bee_sword/пчела меч_051.png');
+	}
+	35.1% {
+		background-image: url('./images/bee_sword/пчела меч_052.png');
+	}
+	35.77% {
+		background-image: url('./images/bee_sword/пчела меч_053.png');
+	}
+	36.45% {
+		background-image: url('./images/bee_sword/пчела меч_054.png');
+	}
+	37.12% {
+		background-image: url('./images/bee_sword/пчела меч_055.png');
+	}
+	37.8% {
+		background-image: url('./images/bee_sword/пчела меч_056.png');
+	}
+	38.47% {
+		background-image: url('./images/bee_sword/пчела меч_057.png');
+	}
+	39.15% {
+		background-image: url('./images/bee_sword/пчела меч_058.png');
+	}
+	39.82% {
+		background-image: url('./images/bee_sword/пчела меч_059.png');
+	}
+	40.5% {
+		background-image: url('./images/bee_sword/пчела меч_060.png');
+	}
+	41.17% {
+		background-image: url('./images/bee_sword/пчела меч_061.png');
+	}
+	41.85% {
+		background-image: url('./images/bee_sword/пчела меч_062.png');
+	}
+	42.52% {
+		background-image: url('./images/bee_sword/пчела меч_063.png');
+	}
+	43.2% {
+		background-image: url('./images/bee_sword/пчела меч_064.png');
+	}
+	43.87% {
+		background-image: url('./images/bee_sword/пчела меч_065.png');
+	}
+	44.55% {
+		background-image: url('./images/bee_sword/пчела меч_066.png');
+	}
+	45.22% {
+		background-image: url('./images/bee_sword/пчела меч_067.png');
+	}
+	45.9% {
+		background-image: url('./images/bee_sword/пчела меч_068.png');
+	}
+	46.57% {
+		background-image: url('./images/bee_sword/пчела меч_069.png');
+	}
+	47.52% {
+		background-image: url('./images/bee_sword/пчела меч_070.png');
+	}
+	47.92% {
+		background-image: url('./images/bee_sword/пчела меч_071.png');
+	}
+	48.6% {
+		background-image: url('./images/bee_sword/пчела меч_072.png');
+	}
+	49.27% {
+		background-image: url('./images/bee_sword/пчела меч_073.png');
+	}
+	49.95% {
+		background-image: url('./images/bee_sword/пчела меч_074.png');
+	}
+	50.62% {
+		background-image: url('./images/bee_sword/пчела меч_075.png');
+	}
+	51.3% {
+		background-image: url('./images/bee_sword/пчела меч_076.png');
+	}
+	51.97% {
+		background-image: url('./images/bee_sword/пчела меч_077.png');
+	}
+	52.65% {
+		background-image: url('./images/bee_sword/пчела меч_078.png');
+	}
+	53.32% {
+		background-image: url('./images/bee_sword/пчела меч_079.png');
+	}
+	54% {
+		background-image: url('./images/bee_sword/пчела меч_080.png');
+	}
+	54.67% {
+		background-image: url('./images/bee_sword/пчела меч_081.png');
+	}
+	55.35% {
+		background-image: url('./images/bee_sword/пчела меч_082.png');
+	}
+	56.02% {
+		background-image: url('./images/bee_sword/пчела меч_083.png');
+	}
+	56.7% {
+		background-image: url('./images/bee_sword/пчела меч_084.png');
+	}
+	57.37% {
+		background-image: url('./images/bee_sword/пчела меч_085.png');
+	}
+	58.05% {
+		background-image: url('./images/bee_sword/пчела меч_086.png');
+	}
+	58.72% {
+		background-image: url('./images/bee_sword/пчела меч_087.png');
+	}
+	59.4% {
+		background-image: url('./images/bee_sword/пчела меч_088.png');
+	}
+	60.07% {
+		background-image: url('./images/bee_sword/пчела меч_089.png');
+	}
+	60.75% {
+		background-image: url('./images/bee_sword/пчела меч_090.png');
+	}
+	61.42% {
+		background-image: url('./images/bee_sword/пчела меч_091.png');
+	}
+	62.1% {
+		background-image: url('./images/bee_sword/пчела меч_092.png');
+	}
+	62.77% {
+		background-image: url('./images/bee_sword/пчела меч_093.png');
+	}
+	63.45% {
+		background-image: url('./images/bee_sword/пчела меч_094.png');
+	}
+	64.12% {
+		background-image: url('./images/bee_sword/пчела меч_095.png');
+	}
+	64.8% {
+		background-image: url('./images/bee_sword/пчела меч_096.png');
+	}
+	65.47% {
+		background-image: url('./images/bee_sword/пчела меч_097.png');
+	}
+	66.15% {
+		background-image: url('./images/bee_sword/пчела меч_098.png');
+	}
+	66.82% {
+		background-image: url('./images/bee_sword/пчела меч_099.png');
+	}
+	67.5% {
+		background-image: url('./images/bee_sword/пчела меч_100.png');
+	}
+	68.17% {
+		background-image: url('./images/bee_sword/пчела меч_101.png');
+	}
+	68.85% {
+		background-image: url('./images/bee_sword/пчела меч_102.png');
+	}
+	69.52% {
+		background-image: url('./images/bee_sword/пчела меч_103.png');
+	}
+	70.2% {
+		background-image: url('./images/bee_sword/пчела меч_104.png');
+	}
+	70.87% {
+		background-image: url('./images/bee_sword/пчела меч_105.png');
+	}
+	71.55% {
+		background-image: url('./images/bee_sword/пчела меч_106.png');
+	}
+	72.22% {
+		background-image: url('./images/bee_sword/пчела меч_107.png');
+	}
+	72.9% {
+		background-image: url('./images/bee_sword/пчела меч_108.png');
+	}
+	73.57% {
+		background-image: url('./images/bee_sword/пчела меч_109.png');
+	}
+	74.25% {
+		background-image: url('./images/bee_sword/пчела меч_110.png');
+	}
+	74.92% {
+		background-image: url('./images/bee_sword/пчела меч_111.png');
+	}
+	75.6% {
+		background-image: url('./images/bee_sword/пчела меч_112.png');
+	}
+	76.27% {
+		background-image: url('./images/bee_sword/пчела меч_113.png');
+	}
+	76.95% {
+		background-image: url('./images/bee_sword/пчела меч_114.png');
+	}
+	77.62% {
+		background-image: url('./images/bee_sword/пчела меч_115.png');
+	}
+	78.3% {
+		background-image: url('./images/bee_sword/пчела меч_116.png');
+	}
+	78.97% {
+		background-image: url('./images/bee_sword/пчела меч_117.png');
+	}
+	79.65% {
+		background-image: url('./images/bee_sword/пчела меч_118.png');
+	}
+	80.32% {
+		background-image: url('./images/bee_sword/пчела меч_119.png');
+	}
+	81% {
+		background-image: url('./images/bee_sword/пчела меч_120.png');
+	}
+	81.67% {
+		background-image: url('./images/bee_sword/пчела меч_121.png');
+	}
+	82.35% {
+		background-image: url('./images/bee_sword/пчела меч_122.png');
+	}
+	83.02% {
+		background-image: url('./images/bee_sword/пчела меч_123.png');
+	}
+	83.7% {
+		background-image: url('./images/bee_sword/пчела меч_124.png');
+	}
+	84.37% {
+		background-image: url('./images/bee_sword/пчела меч_125.png');
+	}
+	85.05% {
+		background-image: url('./images/bee_sword/пчела меч_126.png');
+	}
+	85.72% {
+		background-image: url('./images/bee_sword/пчела меч_127.png');
+	}
+	86.4% {
+		background-image: url('./images/bee_sword/пчела меч_128.png');
+	}
+	87.07% {
+		background-image: url('./images/bee_sword/пчела меч_129.png');
+	}
+	87.75% {
+		background-image: url('./images/bee_sword/пчела меч_130.png');
+	}
+	88.42% {
+		background-image: url('./images/bee_sword/пчела меч_131.png');
+	}
+	89.1% {
+		background-image: url('./images/bee_sword/пчела меч_132.png');
+	}
+	89.77% {
+		background-image: url('./images/bee_sword/пчела меч_133.png');
+	}
+	90.45% {
+		background-image: url('./images/bee_sword/пчела меч_134.png');
+	}
+	91.12% {
+		background-image: url('./images/bee_sword/пчела меч_135.png');
+	}
+	91.8% {
+		background-image: url('./images/bee_sword/пчела меч_136.png');
+	}
+	92.47% {
+		background-image: url('./images/bee_sword/пчела меч_137.png');
+	}
+	93.15% {
+		background-image: url('./images/bee_sword/пчела меч_138.png');
+	}
+	93.82% {
+		background-image: url('./images/bee_sword/пчела меч_139.png');
+	}
+	94.5% {
+		background-image: url('./images/bee_sword/пчела меч_140.png');
+	}
+	95.17% {
+		background-image: url('./images/bee_sword/пчела меч_141.png');
+	}
+	95.85% {
+		background-image: url('./images/bee_sword/пчела меч_142.png');
+	}
+	96.52% {
+		background-image: url('./images/bee_sword/пчела меч_143.png');
+	}
+	97.2% {
+		background-image: url('./images/bee_sword/пчела меч_144.png');
+	}
+	97.87% {
+		background-image: url('./images/bee_sword/пчела меч_145.png');
+	}
+	98.55% {
+		background-image: url('./images/bee_sword/пчела меч_146.png');
+	}
+	99.22% {
+		background-image: url('./images/bee_sword/пчела меч_147.png');
+	}
+	99.9% {
+		background-image: url('./images/bee_sword/пчела меч_148.png');
+	}
+	100% {
+		background-image: url('./images/bee_sword/пчела меч_148.png');
+	}
+}
