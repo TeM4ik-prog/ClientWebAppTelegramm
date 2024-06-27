@@ -2,9 +2,12 @@
 @import '../../../assets/styles/animations';
 
 .block__bear {
-	width: adapt(304px, 375px);
-	height: adapt(356px, 375px);
+	// width: adapt(304px, 375px);
+	// height: adapt(356px, 375px);
 	margin-top: adapt(10px, 375px);
+
+	width: calc(15em + 10vh);
+	height: calc(15em + 10vh);
 	background-image: url('../animations/static/bear.gif');
 	background-repeat: no-repeat;
 	background-position: center;
