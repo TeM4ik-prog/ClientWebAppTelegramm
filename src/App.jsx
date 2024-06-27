@@ -8,6 +8,10 @@ function App() {
   return (
     <>
       <h1>Test Web Tg App</h1>
+
+
+
+      <button>Click</button>
     </>
   )
 }
