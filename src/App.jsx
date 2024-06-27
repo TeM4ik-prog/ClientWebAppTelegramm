@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className='wrapper'> 
-      <h1>Test Web Tg App</h1>
+      <h1>Test Web Tg App 3.0</h1>
 
     </div>
   )
